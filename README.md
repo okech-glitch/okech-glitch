@@ -78,43 +78,26 @@ I'm a passionate **Data Analytics Professional** and **Full-Stack Developer** wh
 
 ---
 
-### 🛒 Ecommerce-WebApp
-**Full-stack e-commerce platform with advanced analytics and recommendation engine**
+### 🧠 Customer Churn Prediction - Fullstack ML Project
+**End-to-end ML system predicting bank customer churn with a modern web interface**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-
-*Modern e-commerce solution with user analytics, personalized recommendations, and seamless payment integration.*
-
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/okech-glitch/Ecommerce-WebApp)
-
----
-
-###  ML-Predictive-Analytics
-**Machine learning models for predictive analytics and business forecasting**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-*Advanced ML pipeline for customer churn prediction, sales forecasting, and market trend analysis.*
-
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/okech-glitch/ML-Predictive-Analytics)
-
----
-
-###  Weather-Analytics-Platform
-**Real-time weather data analysis and agricultural insights platform**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5F0C?style=flat&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-3BAA2A?style=flat&logo=leaflet&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logo=apache-spark&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-*Comprehensive platform for weather data collection, analysis, and agricultural recommendations using machine learning.*
+*Comprehensive churn prediction system featuring EDA, feature engineering, multiple ML algorithms (XGBoost, LightGBM, CatBoost), REST API for model serving, and a React dashboard for real-time predictions and model analysis. Target ROC-AUC > 0.85.*
+
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/okech-glitch/customer-churn-prediction)
+
+- Quick start: `pip install -r requirements.txt` · `npm install` · run FastAPI + React
+- Features: Model comparison, feature importance, batch/single predictions, exportable results
+---
+
 
 ## 📊 GitHub Statistics
 
