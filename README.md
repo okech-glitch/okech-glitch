@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 Current Focus
+## Current Focus
 
 - 🔬 **Advanced Analytics**: Exploring time series forecasting and deep learning applications
 - 🌐 **Full-Stack Innovation**: Building scalable web applications with modern frameworks
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### 📊 Data Analytics & Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -56,7 +56,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ###  Agri-Adapt AI - AI-Powered Agricultural Resilience Platform
 3rd Place Winner - Inflection AI Hackathon | Africa Impact Network
@@ -75,7 +75,7 @@
 
 ---
 
-### 🧠 Customer Churn Prediction - Fullstack ML Project
+### Customer Churn Prediction - Fullstack ML Project
 **End-to-end ML system predicting bank customer churn with a modern web interface**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -97,7 +97,7 @@
 
 
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
   
