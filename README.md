@@ -1,21 +1,18 @@
-# Hi there! 👋 I'm Christopher Okech
+
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher%20Okech-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-okech-23a560225/)
-  [![GitHub](https://img.shields.io/badge/GitHub-okech--glitch-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/okech-glitch)
   [![Email](https://img.shields.io/badge/Email-okechobonyo@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okechobonyo@gmail.com)
 </div>
 
 ---
 
-## 🔍 About Me
+## 💡 Current Focus
 
-I'm a passionate **Data Analytics Professional** and **Full-Stack Developer** who loves transforming raw data into actionable insights and creating user-friendly web applications. With expertise spanning from statistical analysis to modern web development, I enjoy solving complex problems through data-driven approaches and clean, efficient code.
+- 🔬 **Advanced Analytics**: Exploring time series forecasting and deep learning applications
+- 🌐 **Full-Stack Innovation**: Building scalable web applications with modern frameworks
+- 📊 **Data Visualization**: Creating interactive dashboards that tell compelling data stories
+- 🤖 **AI Integration**: Incorporating machine learning into practical business solutions
 
-🌐 **What drives me:**
-- Turning complex datasets into compelling visual stories
-- Building scalable web applications that solve real-world problems
-- Contributing to open-source projects and staying current with tech trends
-- Mentoring others in the data science and development community
 
 ---
 
@@ -99,27 +96,6 @@ I'm a passionate **Data Analytics Professional** and **Full-Stack Developer** wh
 ---
 
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=okech-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okech-glitch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okech-glitch&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%">
-  
-</div>
-
----
-
-## 🎯 Fun Facts
-
-- ☕ **Coffee-powered coding sessions** - I believe great code comes from great coffee!
-- 📚 **Always learning** - Currently exploring advanced machine learning techniques and cloud architecture
-- �� **Data detective** - I love finding hidden patterns in datasets that others might miss
-- 🌱 **Open source advocate** - Contributing to projects that make data science more accessible
-
----
 
 ## 🤝 Connect With Me
 
@@ -127,20 +103,13 @@ I'm a passionate **Data Analytics Professional** and **Full-Stack Developer** wh
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher%20Okech-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-okech-23a560225/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-christopherokech.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://christopherokech.dev)
-  [![Email](https://img.shields.io/badge/Email-okech@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okech@example.com)
+  [![Email](https://img.shields.io/badge/Email-okechobonyo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okechobonyo@gmail.com)
   
 </div>
 
 ---
 
-## 💡 Current Focus
 
-- 🔬 **Advanced Analytics**: Exploring time series forecasting and deep learning applications
-- 🌐 **Full-Stack Innovation**: Building scalable web applications with modern frameworks
-- 📊 **Data Visualization**: Creating interactive dashboards that tell compelling data stories
-- 🤖 **AI Integration**: Incorporating machine learning into practical business solutions
-
----
 
 <div align="center">
   
