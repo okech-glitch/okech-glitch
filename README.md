@@ -8,10 +8,10 @@
 
 ## Current Focus
 
-- 🔬 **Advanced Analytics**: Exploring time series forecasting and deep learning applications
-- 🌐 **Full-Stack Innovation**: Building scalable web applications with modern frameworks
-- 📊 **Data Visualization**: Creating interactive dashboards that tell compelling data stories
-- 🤖 **AI Integration**: Incorporating machine learning into practical business solutions
+- **Advanced Analytics**: Exploring time series forecasting and deep learning applications
+- **Full-Stack Innovation**: Building scalable web applications with modern frameworks
+- **Data Visualization**: Creating interactive dashboards that tell compelling data stories
+- **AI Integration**: Incorporating machine learning into practical business solutions
 
 
 ---
