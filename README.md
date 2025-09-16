@@ -94,7 +94,22 @@
 - Quick start: `pip install -r requirements.txt` · `npm install` · run FastAPI + React
 - Features: Model comparison, feature importance, batch/single predictions, exportable results
 ---
+### Grocery Basket Insights - Market Basket Analysis Platform
+**AI-powered demo app for analyzing customer transactions and predicting product bundles**
 
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+*This platform leverages association rule mining to extract actionable product associations from retail data. Features include interactive charts, downloadable CSVs, top-10 bundle recommendations, and custom filters (customer ID, confidence). Fullstack implementation with Flask backend and React frontend.*
+
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/okech-glitch/grocery-basket-insights)
+
+- Association Rule Mining for frequent itemsets
+- Downloadable results & interactive chart visualizations
+- Built-in dark/light mode, filtering, and performance metrics
 
 
 
